@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'SQProgressView_Example', :exclusive => true do
+  pod "SQProgressView", :path => "../"
+end
+
+target 'SQProgressView_Tests', :exclusive => true do
+  pod "SQProgressView", :path => "../"
+
+  
+end

@@ -1,0 +1,25 @@
+{
+  "name": "SQProgressView",
+  "version": "0.1.0",
+  "summary": "A short description of SQProgressView.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SQProgressView",
+  "license": "MIT",
+  "authors": {
+    "Tomoya Hirano": "tomoya.hirano@dena.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SQProgressView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SQProgressView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

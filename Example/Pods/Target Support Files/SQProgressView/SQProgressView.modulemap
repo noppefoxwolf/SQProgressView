@@ -1,0 +1,6 @@
+framework module SQProgressView {
+  umbrella header "SQProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - SQProgressView (0.1.0)
+
+DEPENDENCIES:
+  - SQProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  SQProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SQProgressView: a0019315a934308c5a0a356a9b68d3c38396da92
+
+COCOAPODS: 0.39.0
